@@ -1,0 +1,26 @@
+# Compilation and Build Output
+*/build/
+
+# Configuration Files (Contain Secrets/Passwords!)
+sdkconfig
+sdkconfig.*
+
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ESP-IDF Component Manager
+managed_components/
+dependencies.lock
+*.devcontainer
+
+# DS_Store (Mac OS specific, but good to ignore in Linux too)
+.DS_Store
