@@ -16,6 +16,7 @@ Here is a list of the projects included in this repository:
 | Project Folder | Description | Key Concepts |
 | :--- | :--- | :--- |
 | `wifi-station` | Connects the ESP32 to a local Wi-Fi network. | Wi-Fi Station, Event Groups, NVS, Menuconfig |
+| `tcp-client` | A TCP client that manually executes HTTP GET requests using standard BSD Sockets and the LwIP network stack within FreeRTOS. | IoT, LwIP, TCP/IP, Sockets |
 
 ## 📝 How to Run These Projects
 
